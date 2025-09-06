@@ -1,0 +1,6 @@
+.wrapper{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid #e2e2e2}
+.inner{max-width:960px;margin:0 auto;padding:8px 16px;display:flex;align-items:center;justify-content:space-between}
+.brand{display:inline-flex;align-items:center;text-decoration:none}
+.logo{height:56px;width:auto;display:block}
+.nav a{margin-left:12px;text-decoration:none;color:#0b5cab;font-weight:600}
+.nav a:hover{text-decoration:underline}
